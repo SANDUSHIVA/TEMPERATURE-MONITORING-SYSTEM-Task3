@@ -1,11 +1,11 @@
 # TEMPERATURE-MONITORING-SYSTEM-Task3
 
-**COMPANY**: CODTECH IT SOLUTIONS
-**NAME**: S SHIVASHANKAR
-**INTERN ID**:CT12EDW
-**DOMAIN**: EMBEDDED SYSTEMS
-**BATCH DURATION**:DECEMBER 17th, 2025 TO FEBURARY 17th, 2025
-**MENTOR NAME**:NEELA SANTOSH KUMAR
+COMPANY: CODTECH IT SOLUTIONS
+NAME: S SHIVASHANKAR
+INTERN ID:CT12EDW
+DOMAIN: EMBEDDED SYSTEMS
+BATCH DURATION:DECEMBER 17th, 2025 TO FEBURARY 17th, 2025
+MENTOR NAME:NEELA SANTOSH KUMAR
 
 # DESCRIPTION OF THE TASK
 
@@ -80,7 +80,7 @@ void loop()
   delay(500);
 }
 
-CIRCUIT DIAGRAM:https://github.com/koppisettithanushmashivani/TEMPERATURE-MONITORING-SYSTEM_Task3/commit/1416e0bf504be12b0167047064f6db50e269290e
+CIRCUIT DIAGRAM:https://github.com/SANDUSHIVA/TEMPERATURE-MONITORING-SYSTEM-Task3/commit/75c688c987b44c0c3ea27b7587765af0dd3b6c7d
 
 WORKING:
   The Temperature Monitoring System operates by utilizing a temperature sensor to detect the ambient temperature of its surroundings. The sensor captures the temperature data and converts it into an electrical signal, which is then sent to a microcontroller or processing unit. The microcontroller processes this data, ensuring its accuracy and formatting it for display. The processed temperature readings are then presented in real-time on an LCD screen or transmitted to a serial monitor for monitoring and analysis. Optional features, such as alerts for temperature thresholds or data logging, can also be integrated to enhance functionality. This seamless operation ensures reliable and efficient temperature tracking for various applications.
@@ -89,7 +89,7 @@ CONCLUSION:
    In conclusion, the Temperature Monitoring System provides an effective solution for measuring and displaying temperature data in real time. By utilizing a temperature sensor, microcontroller, and display unit such as an LCD or serial monitor, the system ensures accurate and reliable temperature tracking. Its versatility makes it suitable for a wide range of applications, including industrial processes, home automation, and environmental monitoring. The system demonstrates the seamless integration of hardware and software, offering a practical example of modern sensor technology's capabilities. This reliable and user-friendly setup underscores its importance in various fields where temperature control and monitoring are critical.
 
 
-OUTPUT OF THE PROJECT:https://github.com/koppisettithanushmashivani/TEMPERATURE-MONITORING-SYSTEM_Task3/commit/8630da2fc59e66681bab118111e8c84e5c592646
+OUTPUT OF THE PROJECT:https://github.com/SANDUSHIVA/TEMPERATURE-MONITORING-SYSTEM-Task3/commit/e9ced56faaff055d1fb7e0b99b13474dc409cbfe
 
 
 
